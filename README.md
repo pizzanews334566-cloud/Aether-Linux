@@ -35,3 +35,5 @@ sudo pacman -Syu
 
 ---
 *Engineered by Froggy 🐸 [System Administrator]*
+
+# Aether is NOT released to the public and can only be beta tested.
